@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Juhyeong Kim
 🎓 **Computer Science Student** at **Dongseo University**  
-🚀 Passionate about **Computer Vision, AI, and Autonomous Ships**  
+🚀 Passionate about **Computer Vision** 🖥, **AI** 🤖, and **Autonomous Ships** 🚢    
 💡 Always eager to learn and build innovative projects  
 
 ---
