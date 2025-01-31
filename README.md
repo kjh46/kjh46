@@ -10,7 +10,7 @@
 ---
 
 ## 🏆 Awards & Achievements
-- 🏆 **Top Prize** | 2024 **5th Shipbuilding & Maritime Big Data Idea Contest**  
+- 🏆 **Top Prize** | 2024 **5th Maritime Big Data Idea Contest**  
 - 🏆 **Best Research Group** | 2024 **Outstanding Research Group Award**  
 - 🎖 **Excellence Prize** | 2024 **Creative Engineering Design Competition (Preliminary Round)**  
 
