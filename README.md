@@ -1,29 +1,24 @@
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi, I'm Juhyeong Kim (김주형)  
 
-![Profile Banner](https://your-image-url.com/banner.png)
-
-## 🌟 About Me
-- 🔭 I’m currently working on **[Your Project/Company]**.
-- 🌱 I’m learning **Python, C++, AI, Autonomous Ships**.
-- 💬 Ask me about **Computer Vision, Embedded Systems, Cloud Computing**.
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
-- ⚡ Fun fact: I love coffee ☕ and coding 💻!
+🎓 **Computer Science Student** at **Dongseo University**  
+🚀 Passionate about **Computer Vision, AI, and Autonomous Ships**  
+💡 Always eager to learn and build innovative projects  
 
 ---
 
 ## 🏆 Awards & Achievements
-- 🥇 **1st Prize** | 2024 **5th Chosun Shipping & Big Data Idea Contest**
-- 🏆 **Best Research Group** | 2024 **Outstanding Research Group Award**
-- 🏅 **2nd Prize** | 2024 **Creative Engineering Design Competition (Preliminary Round)**
+- 🥇 **1st Prize** | 2024 **5th Shipbuilding & Maritime Big Data Idea Contest**  
+- 🏆 **Best Research Group** | 2024 **Outstanding Research Group Award**  
+- 🏅 **2nd Prize** | 2024 **Creative Engineering Design Competition (Preliminary Round)**  
 
 ---
 
 ## 🔬 Projects & Research
-- 🤖 **Autonomous AI Robot using Arduino**
-- 🏥 **Blood Donation DB Management System**
-- 👁 **Youth Eye Protection App**
-- ♿ **Korean & Braille Learning Device for the Visually Impaired**
-- ☁ **AWS Cloud Computing Service Development**
+🔹 [**Autonomous AI Robot using Arduino**](#)  
+🔹 [**Blood Donation DB Management System**](#)  
+🔹 [**Youth Eye Protection App**](#)  
+🔹 [**Korean & Braille Learning Device for the Visually Impaired**](#)  
+🔹 [**AWS Cloud Computing Service Development**](#)  
 
 ---
 
@@ -50,8 +45,10 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kjh46&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kjh46&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
@@ -61,3 +58,5 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 
 ---
+
+![Snake animation](https://github.com/kjh46/kjh46/blob/output/github-contribution-grid-snake.svg)
