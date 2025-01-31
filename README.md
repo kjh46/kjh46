@@ -1,8 +1,6 @@
-<p align="left">
-  <img src="![image](https://github.com/user-attachments/assets/b9726dea-f4cd-4fb3-816a-4fe44d271f44)
-" width="120" height="120" />
-  <h1>👋 Hi, I'm Juhyeong Kim (김주형)</h1>
-</p>
+![image](https://github.com/user-attachments/assets/02bd19f1-6ab3-4dbb-b623-bbec020a29fe)
+
+# 👋 Hi, I'm Juhyeong Kim
 
 🎓 **Computer Science Student** at **Dongseo University**  
 🚀 Passionate about **Computer Vision, AI, and Autonomous Ships**  
