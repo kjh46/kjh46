@@ -1,10 +1,8 @@
 
-![VEYwmkzGFT301Klb571MO9k9Thfa0_wnkFdO0oCM8c1NEqI7jFn-R_32tD1e6kJXtnpa0l-W9pMI4gfi6oJaCw-ezgif com-resize](https://github.com/user-attachments/assets/b4f96e6c-d54b-491f-bd1f-7b662cbfc2b5)
-
+![18ada27515d545c41-ezgif com-resize](https://github.com/user-attachments/assets/aae7e13f-7c2d-4ac3-bb28-87a7fd76dc28)
 
 
 # 👋 Hi, I'm Juhyeong Kim
-
 🎓 **Computer Science Student** at **Dongseo University**  
 🚀 Passionate about **Computer Vision, AI, and Autonomous Ships**  
 💡 Always eager to learn and build innovative projects  
@@ -18,7 +16,7 @@
 
 ---
 
-## 🔬 Projects & Research
+## 🔬 Projects & Research //링크정리 후 추가 예정
 🔹 [**Autonomous AI Robot using Arduino**](#)  
 🔹 [**Blood Donation DB Management System**](#)  
 🔹 [**Youth Eye Protection App**](#)  
@@ -57,11 +55,10 @@
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Connect with Me //여기도 추가 예정
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-
 ---
 
-![Snake animation](https://github.com/kjh46/kjh46/blob/output/github-contribution-grid-snake.svg)
+
