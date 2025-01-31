@@ -1,5 +1,6 @@
 
-https://github.com/user-attachments/assets/04607214-34ec-418c-844f-b19866c2f356
+![VEYwmkzGFT301Klb571MO9k9Thfa0_wnkFdO0oCM8c1NEqI7jFn-R_32tD1e6kJXtnpa0l-W9pMI4gfi6oJaCw-ezgif com-resize](https://github.com/user-attachments/assets/b4f96e6c-d54b-491f-bd1f-7b662cbfc2b5)
+
 
 
 # 👋 Hi, I'm Juhyeong Kim
