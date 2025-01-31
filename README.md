@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/02bd19f1-6ab3-4dbb-b623-bbec020a29fe)
+
+https://github.com/user-attachments/assets/04607214-34ec-418c-844f-b19866c2f356
+
 
 # 👋 Hi, I'm Juhyeong Kim
 
