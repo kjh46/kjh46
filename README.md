@@ -10,7 +10,7 @@
 ---
 
 ## 🏆 Awards & Achievements
-- 🏆 **Top Prize** | 2024 **5th Maritime Big Data Idea Contest**  
+- 🏆 **Top Prize** | 2024 **5th Maritime Big Data Idea Contest**(https://github.com/kjh46/2024-Idea-contest)  
 - 🏆 **Best Research Group** | 2024 **Outstanding Research Group Award**  
 - 🎖 **Excellence Prize** | 2024 **Creative Engineering Design Competition (Preliminary Round)**  
 
