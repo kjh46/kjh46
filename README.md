@@ -22,7 +22,6 @@
 🔹 [**Youth Eye Protection App**](#)  
 🔹 [**Korean & Braille Learning Device for the Visually Impaired**](https://github.com/kjh46/braille-learning-dodam)  
 🔹 [**AWS Cloud Computing Service Development**](#)
-
 🔹 [**Idea Project: Smart Coastal Route Planner with AI**](https://github.com/kjh46/2024-Idea-contest)
 
 ---
