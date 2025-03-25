@@ -20,7 +20,7 @@
 🔹 [**Autonomous AI Robot using Arduino**](#)  
 🔹 [**Blood Donation DB Management System**](#)  
 🔹 [**Youth Eye Protection App**](#)  
-🔹 [**Korean & Braille Learning Device for the Visually Impaired**](#)  
+🔹 [**Korean & Braille Learning Device for the Visually Impaired**](https://github.com/kjh46/braille-learning-dodam)  
 🔹 [**AWS Cloud Computing Service Development**](#)  
 
 ---
