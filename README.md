@@ -10,7 +10,7 @@
 ---
 
 ## 🏆 Awards & Achievements
-- 🏆 **Top Prize** | 2024 [**5th Maritime Big Data Idea Contest**](https://github.com/kjh46/2024-Idea-contest)  
+- 🏆 **Top Prize** | 2024 [**5th Maritime Big Data Idea Contest**]()  
 - 🏆 **Best Research Group** | 2024 **Outstanding Research Group Award**  
 - 🎖 **Excellence Prize** | 2024 **Creative Engineering Design Competition (Preliminary Round)**  
 
@@ -21,7 +21,8 @@
 🔹 [**Blood Donation DB Management System**](#)  
 🔹 [**Youth Eye Protection App**](#)  
 🔹 [**Korean & Braille Learning Device for the Visually Impaired**](https://github.com/kjh46/braille-learning-dodam)  
-🔹 [**AWS Cloud Computing Service Development**](#)  
+🔹 [**AWS Cloud Computing Service Development**](#)
+🔹 [**Idea Project: Smart Coastal Route Planner with AI**](https://github.com/kjh46/2024-Idea-contest)
 
 ---
 
