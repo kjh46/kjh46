@@ -1,7 +1,3 @@
-
-![18ada27515d545c41-ezgif com-resize](https://github.com/user-attachments/assets/aae7e13f-7c2d-4ac3-bb28-87a7fd76dc28)
-
-
 # 👋 Hi, I'm Juhyeong Kim
 🎓 **Computer Science Student** at **Dongseo University**  
 🚀 Passionate about **Computer Vision** 🖥, **AI** 🤖, and **Autonomous Ships** 🚢    
@@ -13,16 +9,16 @@
 - 🏆 **Top Prize** | 2024 [**5th Maritime Big Data Idea Contest**]()  
 - 🏆 **Best Research Group** | 2024 **Outstanding Research Group Award**  
 - 🎖 **Excellence Prize** | 2024 **Creative Engineering Design Competition (Preliminary Round)**  
+- 🏅 **Top prize** | 2024 **Global Trend Frontiers**
 
 ---
 
-## 🔬 Projects & Research //링크정리 후 추가 예정
+## 🔬 Projects & Research 
 🔹 [**Autonomous AI Robot using Arduino**](#)  
-🔹 [**Blood Donation DB Management System**](#)  
+🔹 [**Idea Project: Smart Coastal Route Planner with AI**](https://github.com/kjh46/2024-Idea-contest)  
 🔹 [**Youth Eye Protection App**](#)  
 🔹 [**Korean & Braille Learning Device for the Visually Impaired**](https://github.com/kjh46/braille-learning-dodam)  
 🔹 [**AWS Cloud Computing Service Development**](#)
-🔹 [**Idea Project: Smart Coastal Route Planner with AI**](https://github.com/kjh46/2024-Idea-contest)
 
 ---
 
@@ -48,18 +44,5 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kjh46&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kjh46&theme=tokyonight" height="150"/>
-</p>
-
----
-
-## 🔗 Connect with Me //여기도 추가 예정
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
----
-
-
+## 🔗 Connect with Me
+[![Email](https://img.shields.io/badge/Email-dddddrla@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dddddrla@naver.com)
