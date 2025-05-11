@@ -20,6 +20,14 @@
 🔹 [**Korean & Braille Learning Device for the Visually Impaired(2024)**](https://github.com/kjh46/braille-learning-dodam)  
 🔹 [**Prompt Evaluation & Tuning System for Generative Video AI(2025)**](https://github.com/kjh46/Prompt-Evaluation-Tuning-System-for-Generative-Video-AI) 
 
+## 📢 Presentations
+- [Generative Video AI]([https://your-link.com](https://docs.google.com/presentation/d/1t2JtYUDfIvrcXLoVVCVFhciN8NP3DxCU/edit?usp=sharing&ouid=104527825296091609113&rtpof=true&sd=true))
+- [AI-based Smart Coastal Route Planning](https://your-link.com)
+- [Vision-Language Model 기반 영상 분석 시스템](https://your-link.com)
+
+
+
+
 ---
 
 ## 🚀 Tech Stack
