@@ -21,9 +21,12 @@
 🔹 [**Prompt Evaluation & Tuning System for Generative Video AI(2025)**](https://github.com/kjh46/Prompt-Evaluation-Tuning-System-for-Generative-Video-AI) 
 
 ## 📢 Presentations
+- [2nd Workshop on MaCVi](https://docs.google.com/presentation/d/1VW8PEcOLfjcbr1rOTcwdq-njaWzffqfn/edit?usp=sharing&ouid=103431634017453422378&rtpof=true&sd=true)
+- [Segment Anything](https://docs.google.com/presentation/d/1tSahW_3ZBXaZp6BF4wdA7xNad9CsjRfH/edit?usp=sharing&ouid=103431634017453422378&rtpof=true&sd=true)
+- [AI-based Smart Coastal Route Planning](https://docs.google.com/presentation/d/18nRKlzbr-QK4GXfN-aGro60B7cL5Bqaz0zWau_P9jLI/edit?usp=sharing)
 - [Generative Video AI](https://docs.google.com/presentation/d/1t2JtYUDfIvrcXLoVVCVFhciN8NP3DxCU/edit?usp=sharing&ouid=104527825296091609113&rtpof=true&sd=true)
-- [AI-based Smart Coastal Route Planning](https://your-link.com)
-- [Vision-Language Model 기반 영상 분석 시스템](https://your-link.com)
+- [Prompt Evaluation & Tuning System for Generative Video AI](https://docs.google.com/presentation/d/1B6ffyqhkdQAL6IHwba99IYq-ONjKVi34/edit?usp=sharing&ouid=104527825296091609113&rtpof=true&sd=tru)
+
 
 
 
