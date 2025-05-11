@@ -14,11 +14,11 @@
 ---
 
 ## 🔬 Projects & Research 
-🔹 [**Autonomous AI Robot using Arduino**](#)  
+🔹 [**Autonomous AI Robot using Arduino**](#링크추가예정)  
 🔹 [**Idea Project: Smart Coastal Route Planner with AI**](https://github.com/kjh46/2024-Idea-contest)  
-🔹 [**Youth Eye Protection App**](#)  
+🔹 [**Youth Eye Protection App**](#링크추가예정)   
 🔹 [**Korean & Braille Learning Device for the Visually Impaired**](https://github.com/kjh46/braille-learning-dodam)  
-🔹 [**AWS Cloud Computing Service Development**](#)
+🔹 [**AWS Cloud Computing Service Development**](#링크추가예정)  
 
 ---
 
