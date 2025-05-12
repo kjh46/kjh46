@@ -23,7 +23,7 @@
 ## 📢 Presentations
 - [**2nd Workshop on MaCVi(2023)**](https://docs.google.com/presentation/d/1VW8PEcOLfjcbr1rOTcwdq-njaWzffqfn/edit?usp=sharing&ouid=103431634017453422378&rtpof=true&sd=true)
 - [**Segment Anything(2024)**](https://docs.google.com/presentation/d/1tSahW_3ZBXaZp6BF4wdA7xNad9CsjRfH/edit?usp=sharing&ouid=103431634017453422378&rtpof=true&sd=true)
-- [**Smart Coastal Route Planning with AI(2024)**](https://docs.google.com/presentation/d/18nRKlzbr-QK4GXfN-aGro60B7cL5Bqaz0zWau_P9jLI/edit?usp=sharing)
+- [**Smart Coastal Route Planning with AI(2024)**](https://docs.google.com/presentation/d/1RYbGqs6lpAIVP-4Hk73AccDVJ2k3yR5i/edit?usp=sharing&ouid=104527825296091609113&rtpof=true&sd=true)
 - [**Generative Video AI(2025)**](https://docs.google.com/presentation/d/1t2JtYUDfIvrcXLoVVCVFhciN8NP3DxCU/edit?usp=sharing&ouid=104527825296091609113&rtpof=true&sd=true)
 - [**Prompt Evaluation & Tuning System for Generative Video AI(2025)**](https://docs.google.com/presentation/d/1B6ffyqhkdQAL6IHwba99IYq-ONjKVi34/edit?usp=sharing&ouid=104527825296091609113&rtpof=true&sd=tru)
 
