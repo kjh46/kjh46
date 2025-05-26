@@ -26,6 +26,7 @@
 - [**Smart Coastal Route Planning with AI(2024)**](https://docs.google.com/presentation/d/1RYbGqs6lpAIVP-4Hk73AccDVJ2k3yR5i/edit?usp=sharing&ouid=104527825296091609113&rtpof=true&sd=true)
 - [**Generative Video AI(2025)**](https://docs.google.com/presentation/d/1t2JtYUDfIvrcXLoVVCVFhciN8NP3DxCU/edit?usp=sharing&ouid=104527825296091609113&rtpof=true&sd=true)
 - [**Prompt Evaluation & Tuning System for Generative Video AI(2025)**](https://docs.google.com/presentation/d/1B6ffyqhkdQAL6IHwba99IYq-ONjKVi34/edit?usp=sharing&ouid=104527825296091609113&rtpof=true&sd=tru)
+- [**OpenAI CLIP(2025)**](https://docs.google.com/presentation/d/1yu2jWNYJve8h9BEGp7jN8yosopj0HhSG7faPksL4AnI/edit?usp=drive_link)
 
 
 
