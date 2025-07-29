@@ -14,7 +14,7 @@
 ---
 
 ## 🔬 Projects & Research 
-🔹 [**Autonomous AI Robot using Arduino(2024)**](#링크추가예정)  
+🔹 [**Autonomous AI Robot using Arduino(2024)**](https://github.com/kjh46/Arduino-Auto-Driving-Robot)  
 🔹 [**Idea Project: Smart Coastal Route Planner with AI(2024)**](https://github.com/kjh46/2024-Idea-contest)  
 🔹 [**Youth Eye Protection App(2024)**](#링크추가예정)   
 🔹 [**Korean & Braille Learning Device for the Visually Impaired(2024)**](https://github.com/kjh46/braille-learning-dodam)  
