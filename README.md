@@ -58,4 +58,4 @@
 ---
 
 ## 🔗 Connect with Me
-[![Email](https://img.shields.io/badge/Email-dddddrla@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dddddrla@naver.com)
+[![Email](https://img.shields.io/badge/Email-dddddrla@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhkim01046@gmail.com)
