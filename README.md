@@ -16,7 +16,7 @@
 ## 🔬 Projects & Research 
 🔹 [**Autonomous AI Robot using Arduino(2024)**](https://github.com/kjh46/Arduino-Auto-Driving-Robot)  
 🔹 [**Idea Project: Smart Coastal Route Planner with AI(2024)**](https://github.com/kjh46/2024-Idea-contest)  
-🔹 [**Youth Eye Protection App(2024)**](#링크추가예정)   
+🔹 [**Youth Eye Protection App(2024)**](https://github.com/kjh46/Youth-Vision-Protection-App)  
 🔹 [**Korean & Braille Learning Device for the Visually Impaired(2024)**](https://github.com/kjh46/braille-learning-dodam)  
 🔹 [**Prompt Evaluation & Tuning System for Generative Video AI(2025)**](https://github.com/kjh46/Prompt-Evaluation-Tuning-System-for-Generative-Video-AI)  
 🔹 [**Excel-Based-Automated-Drawing-Process-Program(2025)**](https://github.com/kjh46/Excel-Based-Automated-Drawing-Process-Program) 
