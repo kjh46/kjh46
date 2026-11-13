@@ -17,13 +17,13 @@
 
 * M.S. in Electrical and Computer Engineering
 * Research Interests: Computer Vision, Multimodal AI, Speech Emotion Recognition, and Intelligent Maritime Systems
-* Sub-Major: Smart Marine Mobility
 * 2026 – Present
 
 **Dongseo University**
 
 * B.S. in Computer Science
-
+* Sub-Major: Smart Marine Mobility
+* 2020 - 2026
 ---
 
 ## 🔬 Research Interests
