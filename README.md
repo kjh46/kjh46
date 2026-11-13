@@ -16,7 +16,6 @@
 **Sungkyunkwan University (SKKU)**
 
 * M.S. in Electrical and Computer Engineering
-* Research Interests: Computer Vision, Multimodal AI, Speech Emotion Recognition, and Intelligent Maritime Systems
 * 2026 – Present
 
 **Dongseo University**
